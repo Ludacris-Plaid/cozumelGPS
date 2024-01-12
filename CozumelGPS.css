@@ -1,0 +1,15 @@
+.box_1 {
+    width: 100%;
+    display: grid;
+    height:400px;
+    border: 1px black;
+    background-color: rgb(211, 146, 48);
+
+}
+
+p {
+    color: red;
+    text-align: center;   
+    font-size: 75px; 
+}
+
